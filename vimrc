@@ -36,6 +36,7 @@ set encoding=utf-8
 map <F3> :Tab /
 map <F2>r :call GenRtlReg()<CR>
 map <F2>c :call GenRtlCom()<CR>
+map <F4> :NERDTree<CR>
 
 "----------  not sure  ---------
 filetype off
